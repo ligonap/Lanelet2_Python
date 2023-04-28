@@ -1,6 +1,5 @@
 # LaneletMap
-A simple Python class for easier handling of Lanelet2 maps.
-
+**LaneletMap.py :** A simple Python class for easier handling of Lanelet2 maps.
 An existing Lanelet2 map in OSM format can be loaded or created.
 
 As an example, a CSV file (Point_Data_Map.csv) can be read in and saved as an OSM file.
