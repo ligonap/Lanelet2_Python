@@ -6,7 +6,7 @@ An existing Lanelet2 map in OSM format can be loaded or created.
 As an example, a CSV file (Point_Data_Map.csv) can be read in and saved as an OSM file.
 The OSM file can be read in again as a Lanelet2 map at any time.
 
-**Point_Data_Map.csv :** 56 line each with four (x,y)-points 
+**Point_Data_Map.csv :** 56 lines each with four (x,y)-points 
 
 **CSV_To_Lanelet2_Map.py :** Reads a CSV file with four rows of (x,y)-points, shows all LineStrings (four rings) and writes an OSM file. A lanelet consists of two LineStrings of two points each.
 
